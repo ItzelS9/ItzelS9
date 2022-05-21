@@ -1,4 +1,6 @@
-### Hi there 👋
+Hola, mi nombre es Joanna Itzel aunque me gusta ser llamada por el segundo, Itzel.
+Actualmente estoy estudiando el curso en programación web.
+tengo 13 años. Estoy en 2° de secundaria y mi color favorito es el morado.
 
 <!--
 **ItzelS9/ItzelS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
