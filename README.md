@@ -1,7 +1,12 @@
-Hola, mi nombre es Joanna Itzel aunque me gusta ser llamada por el segundo, Itzel.
+Hola, mi nombre es Joanna Itzel
 Actualmente estoy estudiando el curso en programación web.
 tengo 13 años. Estoy en 2° de secundaria y mi color favorito es el morado.
-
+Mis gustos....pues me gusta:
+jugar videojuegos
+ver doramas (principalmente kdramas)
+me gusta escuchar musica, a veces de señora dolida, musica en ingles tanto romanticona como malevola JAJAJAJJA y...no diria kpop pero me gusta escuchar canciones de algunos grupos coreanos
+soy parte del fandom stay y army
+y mi personalidad del MBTI es ISFJ (por poco y me termino doxeando sola xD)
 <!--
 **ItzelS9/ItzelS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
